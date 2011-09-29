@@ -1,0 +1,6 @@
+Network-Storm TODO List
+-----------------------
+- Investigate audio libraries
+- Wrapper around pcap and audio libraries
+- Determine desirable mapping of packets to sound to direct interface design
+
